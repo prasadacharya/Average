@@ -1,4 +1,4 @@
-﻿// C# program to accept user inputs and calculate
+﻿// C# program to accept user inputs and calculate Average
 
 using System;
 
@@ -22,7 +22,7 @@ namespace Average
 
             int s = (a + b + c) / 3;
 
-            Console.WriteLine("s value is" + s);
+            Console.WriteLine("average is" + s);
         }
     }
 }
